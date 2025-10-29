@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+My first Respiratory
+## My favorite Movie/Series
+- Titanic
+- Lovely Runner
+- Mr. Queen
